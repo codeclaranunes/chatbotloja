@@ -17,7 +17,6 @@ def start():
             despedida()
             break
 
------------------------------------------------------------------------
 def processar_resposta(resposta, nome):
     if resposta == '1':
         print(
